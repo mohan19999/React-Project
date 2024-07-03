@@ -19,7 +19,7 @@ function App() {
                         <Col sm={10}> 
                         
                         <Routes>
-                           <Route path='/' exact Component={Home}/>
+                           <Route path='/React-Project' exact Component={Home}/>
                            <Route path='/about' exact Component={About}/>
                            <Route path='/services' exact Component={Services}/>
                            <Route path='/contact' exact Component={Contact}/>

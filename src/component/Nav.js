@@ -6,7 +6,7 @@ function Nav() {
     <div className='navbar'>
       
       <ul>
-           <Link to='/'><li>Home</li></Link>
+           <Link to='/React-Project'><li>Home</li></Link>
            <Link to='/about'><li>PRODUCTS</li></Link>
            <Link to='/services'><li>Services</li></Link>
            <Link to='/contact'><li>Contact</li></Link>
